@@ -1,0 +1,116 @@
+/*#c7ceff;*/
+/*#c7f9ff*/
+/*#b8beff*/
+html {
+    margin: 0;
+}
+header {
+  text-align: center;
+  background: #c7ffe8;
+  background-size: cover;
+  color: white;
+}
+body {
+ background-color: #c7f9ff; 
+    margin: 0;
+}
+div {
+    margin: 0 auto;
+}
+a {
+  color: black;
+}
+h1 {
+  font-size: 70px;
+}
+h2 {
+ font-family: 'Varela Round', sans-serif; 
+}
+.img1 {
+  margin: 40px;
+  border: 7px solid white;
+  border-radius: 20px;
+  height: 15rem;
+  width: auto;
+}
+.img2 {
+  margin: 40px;
+  height: 15rem;
+  width: auto;    
+}
+
+.dinoI {
+  margin: 40px;
+  height: 25rem;
+  width: auto; 
+}
+.ghostI {
+  margin: 40px;
+  height: 25rem;
+  width: auto; 
+}
+
+/*NAV BAR*/
+
+.nav-item {
+    display: inline-block;
+}
+/*ABOUT PAGE*/
+
+.chicago {
+ width: 100%;
+ margin: 0 -10px;
+}
+ul {
+  padding: 10px;
+  background: ;
+}
+li {
+  display: inline;
+  padding: 0px 10px 0px 10px;
+}
+
+.btn {
+    margin: 20px; 
+    padding: 10px;
+}
+/*STORY PAGE*/
+.story {
+    text-align: left;
+    font-family: 'Concert One', cursive;
+    margin: 
+}
+#storyBody {
+    margin: -10px;
+    margin-top: -10px;
+    padding: 10px;
+}
+
+.SubTitle {
+    text-align: center;
+    font-size: 5vw;
+    color: white;
+}
+.c {
+    background: linear-gradient(to bottom right, #b8beff 0%, #c7f9ff 100%);
+    text-align: center;
+    font-size: 2vw;
+    font-family: 'Pangolin', cursive;
+    margin -10;
+    padding: 20px;
+    color: #3b3eff;
+}
+
+/*DOTS*/
+
+.dots {
+    font-size: 10vw;
+    margin-top: -100px;
+    color: #94ffda;
+    
+}
+
+#img2 {
+    width: 50%;
+    margin: 20px;
+}
